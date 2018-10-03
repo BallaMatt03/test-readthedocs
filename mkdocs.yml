@@ -1,0 +1,3 @@
+site_name: Test ReadTheDocs
+nav:
+    - How to write a tutorial: example-tutorial.md
